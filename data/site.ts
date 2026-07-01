@@ -1,4 +1,4 @@
-export const siteUrl = "https://velvetblue.vercel.app";
+export const siteUrl = "https://velvet-blue-smoky.vercel.app";
 
 export const socials = [
   { label: "Spotify", href: "https://open.spotify.com/artist/3rw7aOidsRjhFEQzFQgJ4l?si=hEd9xf4hQWKH151eM6x30A", eyebrow: "Listen" },

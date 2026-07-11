@@ -33,6 +33,38 @@ export type Song = {
 
 export const songs: Song[] = [
 {
+  id: "satellites",
+  title: "Satellites",
+  releaseDate: "2026-07-16",
+  status: "upcoming",
+  cover: "/covers/satellites.png",
+
+  about:
+    "A cinematic EDM journey about two people separated by distance yet forever connected beneath the same stars. 'Satellites' explores love, memories, and the invisible signals that keep us close, even when the world pulls us apart.",
+
+  genre: "Cinematic EDM",
+  duration: "3:12",
+
+  youtubeVideo: "",
+  story: "",
+  lyrics: "",
+
+  links: {
+    spotify: "",
+    apple: "",
+    youtube: "",
+    youtubeMusic: "",
+    itunes: "",
+    amazon: "",
+    deezer: "",
+    tidal: "",
+    pandora: "",
+    soundcloud: "",
+    hyperfollow: "https://distrokid.com/hyperfollow/velvetblue3/satellites",
+  },
+},
+
+{
   id: "nobody-knows",
   title: "Nobody Knows",
   releaseDate: "2026-07-01",

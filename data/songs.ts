@@ -37,7 +37,7 @@ export const songs: Song[] = [
   title: "Satellites",
   releaseDate: "2026-07-16",
   status: "upcoming",
-  cover: "/covers/thumbnail.png",
+  cover: "/covers/thumbnail9-16.png",
 
   about:
     "A cinematic EDM journey about two people separated by distance yet forever connected beneath the same stars. 'Satellites' explores love, memories, and the invisible signals that keep us close, even when the world pulls us apart.",

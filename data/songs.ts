@@ -50,7 +50,7 @@ export const songs: Song[] = [
   lyrics: "",
 
   links: {
-    spotify: "",
+    spotify: "https://open.spotify.com/track/79XeRubfTVVvVp7is3MEEf?si=6d2817df46c44f9c",
     apple: "",
     youtube: "https://youtu.be/NvAEsLrzYyo",
     youtubeMusic: "",

@@ -45,16 +45,16 @@ export const songs: Song[] = [
   genre: "Cinematic EDM",
   duration: "3:12",
 
-  youtubeVideo: "",
+  youtubeVideo: "https://youtu.be/NvAEsLrzYyo",
   story: "",
   lyrics: "",
 
   links: {
     spotify: "",
     apple: "",
-    youtube: "",
+    youtube: "https://youtu.be/NvAEsLrzYyo",
     youtubeMusic: "",
-    itunes: "",
+    itunes: "https://music.apple.com/us/song/satellites/6789867084",
     amazon: "",
     deezer: "",
     tidal: "",
@@ -79,7 +79,7 @@ export const songs: Song[] = [
   lyrics: "",
   links: {
     spotify: "https://open.spotify.com/track/7tt9Mt6CjbqsTrIfWTnNpW?si=04ee2233c0654e86",
-    apple: "",
+    apple: "https://music.apple.com/us/song/nobody-knows/6783370306",
     youtube: "https://youtu.be/gqHJq0U-fgM?si=0qu-RFh4e9Ptvd8N",
     youtubeMusic: "https://music.youtube.com/watch?v=gqHJq0U-fgM&si=2qCmNvaH7faTg1gB",
     itunes: "https://music.apple.com/us/album/nobody-knows-single/6783370305",

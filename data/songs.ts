@@ -36,7 +36,7 @@ export const songs: Song[] = [
   id: "satellites",
   title: "Satellites",
   releaseDate: "2026-07-16",
-  status: "upcoming",
+  status: "released",
   cover: "/covers/thumbnail9-16.png",
 
   about:
